@@ -9,13 +9,17 @@
 
     <div class="py-5">
       <div class="container">
-        <div class="row">
-          <div class="col-md-8">
-            <h1 class="main-heading">If you have any queries ?</h1>
-            <h4>Please Reach out us at contatc dimaskurniawan22@gmail.com</h4>
-          </div>
-          <div class="col-md-4 text-center my-auto">
-            <nuxt-link to="/contact" class="px-5 btn btn-primary">Contact Us</nuxt-link>
+        <div class="row justify-content-center">
+          <div class="col text-center my-auto">
+            <div class="card">
+              <h5 class="card-header bg-primary text-light">Contact Us</h5>
+              <div class="card-body">
+                <h5 class="card-title">If you have any queries ?</h5>
+                <p class="card-text">Please Reach out us at contact dimaskurniawan22@gmail.com</p>
+                <nuxt-link to="/contact" class="px-5 btn btn-primary">Contact Us</nuxt-link>
+              </div>
+            </div>
+            
           </div>
         </div>
       </div>

@@ -7,13 +7,53 @@
     </div>
     <div class="py-5">
       <div class="container">
-        <div class="row">
-          <div class="col-md-8">
-            <h1 class="main-heading">If you have any queries ?</h1>
-            <h4>Please Reach out us at contatc dimaskurniawan22@gmail.com</h4>
+        <h1 class="text-center"> Our Teams</h1>
+        <div class="row my-5 justify-content-center">
+          <div class="col-4">
+            <div class="card">
+              <img src="images/profile-1.jpg" class="card-img-top" alt="ourteams">
+              <div class="card-body">
+                <h5 class="card-title">Faizal Abdul Hakim</h5>
+                <h6 class="card-subtitle mb-2 text-muted">CEO Company</h6>
+                <p class="card-text">Lorem ipsum dolor sit amet.
+                </p>
+              </div>
+            </div>
           </div>
-          <div class="col-md-4 text-center my-auto">
-            <nuxt-link to="/contact" class="px-5 btn btn-primary">Contact Us</nuxt-link>
+          <div class="col-4">
+            <div class="card">
+              <img src="images/profile-2.jpg" class="card-img-top" alt="ourteams">
+              <div class="card-body">
+                <h5 class="card-title">Angelina</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Director of Finance</h6>
+                <p class="card-text">Lorem ipsum dolor sit amet Lorem, ipsum..
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-4">
+            <div class="card">
+              <img src="images/profile-3.jpg" class="card-img-top" alt="ourteams">
+              <div class="card-body">
+                <h5 class="card-title">Dimas Kurniawan</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Manager Marketing</h6>
+                <p class="card-text">Lorem ipsum dolor sit amet.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col text-center my-auto">
+            <div class="card">
+              <h5 class="card-header bg-primary text-light">Contact Us</h5>
+              <div class="card-body">
+                <h5 class="card-title">If you have any queries ?</h5>
+                <p class="card-text">Please Reach out us at contact dimaskurniawan22@gmail.com</p>
+                <nuxt-link to="/contact" class="px-5 btn btn-primary">Contact Us</nuxt-link>
+              </div>
+            </div>
+    
           </div>
         </div>
       </div>
