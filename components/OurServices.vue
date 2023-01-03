@@ -11,7 +11,7 @@
         <div class="row">
           <div class="col-md-4">
             <div class="box-card">
-              <img src="/images/services.webp" class="w-100" alt="Apartement Jaya">
+              <img src="/images/Apart-1.jpg" class="w-100" alt="Apartement Jaya">
               <div class="box-card-body">
                 <h3 class="box-card-heading">Apartement Jaya</h3>
                 <div class="underline"></div>
@@ -30,7 +30,7 @@
           </div>
           <div class="col-md-4">
             <div class="box-card">
-              <img src="/images/services.webp" class="w-100" alt="Apartement Jaya">
+              <img src="/images/Apart-2.jpg" class="w-100" alt="Apartement Jaya">
               <div class="box-card-body">
                 <h3 class="box-card-heading">Apartement Jaya</h3>
                 <div class="underline"></div>
@@ -49,7 +49,7 @@
           </div>
           <div class="col-md-4">
             <div class="box-card">
-              <img src="/images/services.webp" class="w-100" alt="Apartement Jaya">
+              <img src="/images/Apart-3.jpg" class="w-100" alt="Apartement Jaya">
               <div class="box-card-body">
                 <h3 class="box-card-heading">Apartement Jaya</h3>
                 <div class="underline"></div>

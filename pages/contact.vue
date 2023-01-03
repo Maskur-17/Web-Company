@@ -50,10 +50,10 @@
               <div class="card-body">
                 <h5 class="card-title">If you have any queries ?</h5>
                 <p class="card-text">Please Reach out us at contact dimaskurniawan22@gmail.com</p>
-                <nuxt-link to="/contact" class="px-5 btn btn-primary">Contact Us</nuxt-link>
+                <nuxt-link to="/" class="px-5 btn btn-primary">Contact Us</nuxt-link>
               </div>
             </div>
-    
+
           </div>
         </div>
       </div>

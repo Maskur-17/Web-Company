@@ -4,7 +4,7 @@
       <div class="container">
         <div class="row justify-content-between">
           <div class="col-md-6">
-            <h4>Web Company IT</h4>
+            <h4>Web Company Apartmenet</h4>
             <div class="underline"></div>
             <p>
               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
